@@ -2,7 +2,7 @@ module star2
 
 go 1.22.3
 
-require github.com/bfun/star v0.0.53
+require github.com/bfun/star v0.0.58
 
 require (
 	github.com/bfun/cjsonsource v0.0.51 // indirect
